@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 A
 
 sjjkahskjbanuas::wq!D
+=======
+AD
+>>>>>>> 1284cb895b55790a28ac8d13e7fe00d0da3131e5
