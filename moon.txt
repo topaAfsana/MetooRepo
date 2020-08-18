@@ -1,2 +1,3 @@
 moon
 half moon
+whole moon
